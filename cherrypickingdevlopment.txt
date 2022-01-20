@@ -5,5 +5,3 @@ Hello, if you see this. Then your at version 2 shawty
 
 Another work day, made some changes. Were at version 2.1.1 "-BC"
 
-
-Another day complete. Check out my changes. Were at version 2.1.2 "-TC"
