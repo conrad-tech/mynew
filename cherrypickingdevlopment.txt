@@ -1,3 +1,10 @@
 #Version 3.0.0
 
+<<<<<<< HEAD
 Hello, if you see this. Then your at version 3 my boi!
+=======
+Hello, if you see this. Then your at version 2 shawty
+
+
+Another work day, made some changes. Were at version 2.1.1 "-BC"
+>>>>>>> 9931ba4... commit version 2.1.1
