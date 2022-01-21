@@ -1,7 +1,19 @@
+<<<<<<< HEAD
 #Version 2.1.0
 
+=======
+#Version 3.0.0
+
+<<<<<<< HEAD
+Hello, if you see this. Then your at version 3 my boi!
+=======
+>>>>>>> a849bfa20ce644ff389bfe8bb67e449e6203ee55
 Hello, if you see this. Then your at version 2 shawty
 
 
 Another work day, made some changes. Were at version 2.1.1 "-BC"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9931ba4... commit version 2.1.1
+>>>>>>> a849bfa20ce644ff389bfe8bb67e449e6203ee55
