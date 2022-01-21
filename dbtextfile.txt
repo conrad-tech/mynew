@@ -1,0 +1,6 @@
+My new text file version 1
+
+
+mynewvar=1
+
+echo "version" `expr $mynewvar + 1`
